@@ -2,8 +2,7 @@
 
 
 int main(){
-    auto& print = std::cout;
     int x = 1;
-    print << x;
+    std::cout << x;
     return 0;
 }
