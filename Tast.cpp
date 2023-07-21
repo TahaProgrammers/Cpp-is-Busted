@@ -120,7 +120,7 @@ int main(){
         // int i;
         // for(i = 1; i<= 10; i++){
         //     print << i << '\n';
-        // }
+        // }    
         /*Random Number Generator*/
         // srand(time(NULL));
         // int num1 =(rand() % 6) + 1;
